@@ -6,3 +6,6 @@ _Decorative IoT ambient lights lamp. Smooth and warm white colour excellent for 
 
 <p><i>Features:</i></p>
 - Runs Rainmaker for turning lights on/off
+
+### Reserved GPIOs
+- GPIO3 - reserved for LEDs
