@@ -1,4 +1,4 @@
-# ESP32-C3_Night-Lamp
+# ESP32-C3
 
 _Decorative IoT ambient lights lamp. Smooth and warm white colour excellent for ambient night lights._
 
